@@ -1,0 +1,24 @@
+{
+  "name": "tools",
+  "version": "0.0.1",
+  "description": "Package.jsoon for all my tools",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js 'servicename'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesguan/Tools"
+  },
+  "keywords": [
+    "nodemailer",
+    "require",
+    "config"
+  ],
+  "author": "James Guan",
+  "license": "MIT"
+}
